@@ -16,7 +16,7 @@ Setup Instructions
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/MarellaDeepika/weather-app.git
 2. Navigate to the Project Directory
 bash
 Copy code
@@ -29,8 +29,9 @@ Open the script.js file located in the project directory.
 Replace the placeholder 'YOUR_API_KEY' with your actual API key from OpenWeatherMap.
 javascript
 Copy code
-const apiKey = 'your_actual_api_key_here'; // Insert your API key here
-5. Run the App
+const apiKey = 'your_actual_api_key_here';
+// Insert your API key here
+6. Run the App
 Open index.html in your web browser to start using the weather app.
 Usage
 Input Location: Enter a city name in the input field and click "Get Weather" to fetch the weather data for that location.
@@ -39,12 +40,12 @@ Project Structure
 plaintext
 Copy code
 weather-app/
-│
-├── index.html         # The main HTML file
-├── styles.css         # CSS file for styling the app
-├── script.js          # JavaScript file for handling logic and API calls
-├── README.md          # This readme file
-└── assets/            # Directory for images or other assets (if any)
+
+index.html         # The main HTML file
+styles.css         # CSS file for styling the app
+script.js          # JavaScript file for handling logic and API calls
+README.md          # This readme file
+assets/            # Directory for images or other assets (if any)
 Screenshots
 screenshot :![Screenshot 2024-10-23 001427](https://github.com/user-attachments/assets/e7bf373d-afe7-481c-ad2f-41770cc8812c)
 
