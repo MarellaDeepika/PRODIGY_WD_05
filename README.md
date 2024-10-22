@@ -45,8 +45,7 @@ index.html         # The main HTML file
 styles.css         # CSS file for styling the app
 script.js          # JavaScript file for handling logic and API calls
 README.md          # This readme file
-assets/            # Directory for images or other assets (if any)
-Screenshots
+Screenshot of the website:
 screenshot :![Screenshot 2024-10-23 001427](https://github.com/user-attachments/assets/e7bf373d-afe7-481c-ad2f-41770cc8812c)
 
 
